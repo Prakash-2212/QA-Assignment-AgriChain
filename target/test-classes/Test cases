@@ -1,0 +1,11 @@
+Manual Test Cases:
+
+Verify the presence of input field on the home page.
+Verify the presence of submit button on the home page.
+Enter a valid input string in the input field and submit.
+Verify that the result page is displayed after submitting the input.
+Verify the correctness of the longest substring without repeating letters displayed on the result page.
+
+Automation Test Cases:
+
+Automate the scenario of entering a valid input string and verifying the correctness of the longest substring without repeating letters displayed on the result page.
